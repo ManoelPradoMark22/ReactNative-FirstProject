@@ -59,6 +59,7 @@ export const Avatar = styled.Image`
   width: 64px;
   height: 64px;
   border-radius: 32px;
+  /*para enquanto a imagem nao carregar ficar essa cor de fundo */
   background: #eee;
 `;
 
